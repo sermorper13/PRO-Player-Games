@@ -2,4 +2,4 @@
 Simple project build in first year of degree
 ## Author
 Sergi Moreno Pérez \
-Note: 9.7
+Mark: 9.7
